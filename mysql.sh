@@ -5,7 +5,7 @@ echo "***********************************************"
 #MySQL数据目录
 mdatadir=/mnt/mysql/data
 #MySQL初始化密码
-setpwd=apexsoft
+setpwd=123456
 #安装文件
 tarFile=/root/mysql-5.7.26-1.el7.x86_64.rpm-bundle.tar
 #解压目录
